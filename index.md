@@ -23,22 +23,22 @@
   </tr>
   <tr>
     <td>
-      Ravi Shekhar
+      <div class='names'>Ravi Shekhar</div>
     </td>
     <td>
-      Tim Baumg&auml; rtner
+      <div class='names'>Tim Baumg&auml;rtner</div>
     </td>
     <td>
-      Aashish Venkatesh
+      <div class='names'>Aashish Venkatesh</div>
     </td>
     <td>
-      Elia Bruni
+      <div class='names'>Elia Bruni</div>
     </td>
     <td>
-      Raffaella Bernardi
+      <div class='names'>Raffaella Bernardi</div>
     </td>
     <td>
-      Raquel Fernandez
+      <div class='names'>Raquel Fernandez</div>
     </td>
   </tr>
 </table>
