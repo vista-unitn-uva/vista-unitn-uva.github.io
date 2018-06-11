@@ -12,7 +12,14 @@
   /*white-space: nowrap*/
 }
 
-#contributor-table {
+/*#contributor-table {
   table-layout: fixed;
   border: none;
+}*/
+#contributor-table td { 
+  table-layout: fixed;
+  border: 0px; 
+  width:16.6%; 
+  vertical-align: center; 
+  text-align:center; 
 }
