@@ -55,12 +55,3 @@ the conversation to make a guess. Our analyses show that adding a decision makin
 produces dialogues that are less repetitive and that include fewer unnecessary questions, thus
 potentially leading to more efficient and less unnatural interactions.  
 [pdf](https://arxiv.org/abs/1805.06960) [code](https://github.com/timbmg/Ask-No-More) [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:ALFJe6KKaIwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWx6dTtgn7xhHxES1SDP1x1zQp2KzyMv6&scisf=4&ct=citation&cd=-1&hl=en)
-
-
-````
-@article{shekhar2018ask,
-  title={Ask No More: Deciding when to guess in referential visual dialogue},
-  author={Shekhar, Ravi and Baumgartner, Tim and Venkatesh, Aashish and Bruni, Elia and Bernardi, Raffaella and Fernandez, Raquel},
-  journal={arXiv preprint arXiv:1805.06960},
-  year={2018}
-}
