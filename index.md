@@ -1,6 +1,6 @@
 ## Contributors
 
-<table>
+<table id='contributor-table'>
   <tr>
     <td>
       <img class="headshots" src='images/ravi.jpg' alt='Ravi Shekhar'>
