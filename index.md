@@ -12,13 +12,13 @@
       <img class="headshots" src='images/aashish.jpg' alt='Aashish Venkatesh'>
     </td>
     <td>
-      <img class="headshots" src='images/elia.jpg', alt='Elia Bruni'>
+      <img class="headshots" src='images/elia.jpg' alt='Elia Bruni'>
     </td>
     <td>
-      <img class="headshots" src='images/raffa.jpg', alt='Raffaella Bernardi'>
+      <img class="headshots" src='images/raffa.jpg' alt='Raffaella Bernardi'>
     </td>
     <td>
-      <img class="headshots" src='images/raquel.jpg', alt='Raquel Fernandez'>
+      <img class="headshots" src='images/raquel.jpg' alt='Raquel Fernandez'>
     </td>
   </tr>
   <tr>
