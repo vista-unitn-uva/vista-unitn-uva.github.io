@@ -62,4 +62,4 @@ decides whether to ask a follow-up question to identify a target referent in an 
 the conversation to make a guess. Our analyses show that adding a decision making component
 produces dialogues that are less repetitive and that include fewer unnecessary questions, thus
 potentially leading to more efficient and less unnatural interactions.  
-[PDF](http://aclweb.org/anthology/C18-1104) | [code](https://github.com/timbmg/Ask-No-More) | [cite](https://aclanthology.info/papers/C18-1104/c18-1104.bib)
+[PDF](http://aclweb.org/anthology/C18-1104) | [code coming soon](https://github.com/timbmg/Ask-No-More) | [cite](https://aclanthology.info/papers/C18-1104/c18-1104.bib)
