@@ -56,5 +56,4 @@ Ravi Shekhar, Aashish Venkatesh, Tim Baumg&auml;rtner, Elia Bruni, Barbara Plank
 Ravi Shekhar, Tim Baumg&auml;rtner, Aashish Venkatesh, Elia Bruni, Raffaella Bernardi, and Raquel Fern&aacute;ndez
 #### COLING 2018
 > Our goal is to explore how the abilities brought in by a dialogue manager can be included in end-to-end visually grounded conversational agents. We make initial steps towards this general goal by augmenting a task-oriented visual dialogue model with a decision-making component that decides whether to ask a follow-up question to identify a target referent in an image, or to stop the conversation to make a guess. Our analyses show that adding a decision making component produces dialogues that are less repetitive and that include fewer unnecessary questions, thus potentially leading to more efficient and less unnatural interactions.  
-
 [PDF](http://aclweb.org/anthology/C18-1104) | [code coming soon](https://github.com/timbmg/Ask-No-More) | [cite](https://aclanthology.info/papers/C18-1104/c18-1104.bib)
