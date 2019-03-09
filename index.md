@@ -47,8 +47,9 @@
 
 
 ### Ask No More: Deciding when to guess in referential visual dialogue
+Ravi Shekhar, Tim Baumg&auml;rtner, Aashish Venkatesh, Elia Bruni, Raffaella Bernardi, and Raquel Fern&aacute;ndez
 #### COLING 2018
-Our goal is to explore how the abilities brought in by a dialogue manager can be included in endto-end
+Our goal is to explore how the abilities brought in by a dialogue manager can be included in end-to-end
 visually grounded conversational agents. We make initial steps towards this general goal
 by augmenting a task-oriented visual dialogue model with a decision-making component that
 decides whether to ask a follow-up question to identify a target referent in an image, or to stop
