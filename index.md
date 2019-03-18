@@ -21,7 +21,7 @@
       <img class="headshots" src='images/raquel.jpg' alt='Raquel Fern&aacute;ndez'>
     </td>
     <td>
-      <img class="headshots" src='images/barbara.jpg' alt='Barbara Plank'>
+      <img class="headshots" src='images/barbara.png' alt='Barbara Plank'>
     </td>
   </tr>
   <tr>
@@ -39,6 +39,9 @@
     </td>
     <td>
       <div class='names'>Raffaella Bernardi</div>
+    </td>
+    <td>
+      <div class='names'>Raquel Fern&aacute;ndez</div>
     </td>
     <td>
       <div class='names'>Barbara Plank</div>
