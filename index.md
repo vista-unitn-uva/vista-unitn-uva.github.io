@@ -25,7 +25,7 @@ This website provides an overview of our research on visually-grounded language 
       <img class="headshots" src='images/ravi.jpg' alt='Ravi Shekhar'>
     </td>
     <td>
-      <img class="headshots" src='images/aashish.jpg' alt='Aashish Venkatesh'>
+      <img class="headshots" src='images/aashish2.jpg' alt='Aashish Venkatesh'>
     </td>
   </tr>
   <tr>
