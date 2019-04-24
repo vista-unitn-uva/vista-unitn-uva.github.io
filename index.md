@@ -1,3 +1,7 @@
+## Welcome 
+
+This website provides an overview of our research on visually-grounded language in interactive settings. The work is jointly carried out by our two research groups: the Language and Vision group led by [Raffaella Bernardi](http://disi.unitn.it/~bernardi/) at the University of Trento and the Dialogue Modelling Group led by [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) at the University of Amsterdam. The two group leaders have equally contributed to all papers included here.
+
 ## Contributors
 
 <table id='contributor-table'>
