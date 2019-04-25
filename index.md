@@ -33,13 +33,13 @@ This website provides an overview of our research on visually-grounded language 
       <div class='names'>Tim Baumg&auml;rtner</div>
     </td>
     <td>
-      <div class='names'>[Raffaella Bernardi](http://disi.unitn.it/~bernardi/)</div>
+      <div class='names'>Raffaella Bernardi</div>
     </td>
     <td>
       <div class='names'>Elia Bruni</div>
     </td>
     <td>
-      <div class='names'>[Raquel Fern&aacute;ndez](https://staff.fnwi.uva.nl/r.fernandezrovira/)</div>
+      <div class='names'>Raquel Fern&aacute;ndez</div>
     </td>
     <td>
       <div class='names'>Barbara Plank</div>
