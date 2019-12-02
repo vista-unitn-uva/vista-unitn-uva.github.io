@@ -65,6 +65,7 @@ Ravi Shekhar, Alberto Testoni, Raquel Fern&aacute;ndez, and Raffaella Bernardi
 Alberto Testoni, Ravi Shekhar, Raquel Fern&aacute;ndez, and Raffaella Bernardi
 #### Semdial 2019
 > Grounded conversational agents are a fascinating research line on which important progress has been made lately thanks to the development of neural network models and to the release of visual dialogue datasets. The latter have been used to set visual dialogue games which are an interesting test bed to evaluate conversational agents. Researchers' attention is on building models of increasing complexity, trained with computationally costly machine learning paradigms that lead to higher task success scores. In this paper, we take a step back: We use a rather simple neural network architecture and we scrutinize the GuessWhich task, the dataset, and the quality of the generated dialogues. We show that our simple Questioner agent reaches state-of-the art performance, that the evaluation metric commonly used is too coarse to compare different models, and that high task success does not correspond to high quality of the dialogues. Our work shows the importance of running detailed analyses of the results to spot possible models' weaknesses rather than  aiming to outperform state-of-the-art scores. 
+
 [PDF](http://semdial.org/anthology/Z19-Testoni_semdial_0005.pdf) | [Code](https://github.com/shekharRavi/The-Devil-is-in-the-Detail-SemDial2019)  
 
 ### Evaluating the Representational Hub of Language and Vision Models
@@ -83,4 +84,5 @@ Ravi Shekhar, Aashish Venkatesh, Tim Baumg&auml;rtner, Elia Bruni, Barbara Plank
 Ravi Shekhar, Tim Baumg&auml;rtner, Aashish Venkatesh, Elia Bruni, Raffaella Bernardi, and Raquel Fern&aacute;ndez
 #### COLING 2018
 > Our goal is to explore how the abilities brought in by a dialogue manager can be included in end-to-end visually grounded conversational agents. We make initial steps towards this general goal by augmenting a task-oriented visual dialogue model with a decision-making component that decides whether to ask a follow-up question to identify a target referent in an image, or to stop the conversation to make a guess. Our analyses show that adding a decision making component produces dialogues that are less repetitive and that include fewer unnecessary questions, thus potentially leading to more efficient and less unnatural interactions. 
-[PDF](http://aclweb.org/anthology/C18-1104) | [Cite](https://aclanthology.info/papers/C18-1104/c18-1104.bib) | Code coming soon
+
+[PDF](http://aclweb.org/anthology/C18-1104) | [Cite](https://aclanthology.info/papers/C18-1104/c18-1104.bib) 
